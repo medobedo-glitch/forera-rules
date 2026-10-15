@@ -1,1 +1,9 @@
-
+{
+  "Version": "Forera-2",
+  "RoutingItems": [
+    {
+      "Remarks": "Aion2 Steam",
+      "Url": "https://raw.githubusercontent.com/medobedo-glitch/forera-rules/refs/heads/main/rules/aion2-steam.json"
+    }
+  ]
+}
