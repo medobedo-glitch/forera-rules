@@ -1,0 +1,12 @@
+[
+  {
+    "remarks": "Aion2",
+    "outboundTag": "proxy",
+    "process": ["AION2.exe"]
+  },
+  {
+    "remarks": "Everything else direct",
+    "outboundTag": "direct",
+    "port": "0-65535"
+  }
+]
