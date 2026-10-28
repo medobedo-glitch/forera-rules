@@ -4,6 +4,10 @@
     {
       "Remarks": "Aion2 Steam",
       "Url": "https://raw.githubusercontent.com/medobedo-glitch/forera-rules/refs/heads/main/rules/aion2-steam.json"
+    },
+    {
+      "Remarks": "FC27",
+      "Url": "https://raw.githubusercontent.com/medobedo-glitch/forera-rules/refs/heads/main/rules/fc27.json"
     }
   ]
 }
