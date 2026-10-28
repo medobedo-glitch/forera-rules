@@ -1,0 +1,12 @@
+[
+  {
+    "remarks": "FC27",
+    "outboundTag": "proxy",
+    "process": ["FC27.exe"]
+  },
+  {
+    "remarks": "Everything else direct",
+    "outboundTag": "direct",
+    "port": "0-65535"
+  }
+]
