@@ -1,0 +1,12 @@
+[
+  {
+    "remarks": "Helldivers2 Steam",
+    "outboundTag": "proxy",
+    "process": ["helldivers2.exe"]
+  },
+  {
+    "remarks": "Everything else direct",
+    "outboundTag": "direct",
+    "port": "0-65535"
+  }
+]
