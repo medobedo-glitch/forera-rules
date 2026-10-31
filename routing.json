@@ -1,5 +1,5 @@
 {
-  "Version": "Forera-3",
+  "Version": "Forera-4",
   "RoutingItems": [
     {
       "Remarks": "Aion2 Steam",
@@ -8,6 +8,10 @@
     {
       "Remarks": "FC27",
       "Url": "https://raw.githubusercontent.com/medobedo-glitch/forera-rules/refs/heads/main/rules/fc27.json"
+    },
+    {
+      "Remarks": "Helldivers2",
+      "Url": "https://raw.githubusercontent.com/medobedo-glitch/forera-rules/refs/heads/main/rules/helldivers2-steam.json"
     }
   ]
 }
